@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alfred\\Desktop\\UnityProject\\Card Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE56A1-74BD-D71E-D368-937FA19EB61F}|Assembly-CSharp.csproj|c:\\users\\alfred\\desktop\\unityproject\\card services\\assets\\new folder\\codigo\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE56A1-74BD-D71E-D368-937FA19EB61F}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\codigo\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE56A1-74BD-D71E-D368-937FA19EB61F}|Assembly-CSharp.csproj|C:\\Users\\Alfred\\Desktop\\UnityProject\\Card Services\\assets\\new folder\\codigo\\cartero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE56A1-74BD-D71E-D368-937FA19EB61F}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\codigo\\cartero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\Alfred\\Desktop\\UnityProject\\Card Services\\Assets\\New Folder\\Codigo\\Carta.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\Codigo\\Carta.cs",
+              "ToolTip": "C:\\Users\\Alfred\\Desktop\\UnityProject\\Card Services\\Assets\\New Folder\\Codigo\\Carta.cs",
+              "RelativeToolTip": "Assets\\New Folder\\Codigo\\Carta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:50:44.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cartero.cs",
+              "DocumentMoniker": "C:\\Users\\Alfred\\Desktop\\UnityProject\\Card Services\\Assets\\New Folder\\Codigo\\Cartero.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\Codigo\\Cartero.cs",
+              "ToolTip": "C:\\Users\\Alfred\\Desktop\\UnityProject\\Card Services\\Assets\\New Folder\\Codigo\\Cartero.cs",
+              "RelativeToolTip": "Assets\\New Folder\\Codigo\\Cartero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:35:08.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
